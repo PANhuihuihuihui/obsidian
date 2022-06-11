@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "bfa4d463d0798d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb2dd930f838cd0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "COMP/Algorithm/Problem/Array.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e818bc703368e39",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f137ae740494057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e57ae6c4aba84876",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a01c2d3595b2038",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f221af54aebbcf93",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228
+  },
+  "right": {
+    "id": "a21ad5a085579156",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a47ef34f35619c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbdff7ac6182c721",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMP/Algorithm/Problem/Array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ebb2dd930f838cd0",
+  "lastOpenFiles": [
+    "COMP/Algorithm/Problem/Array.md",
+    "COMP/Programming Language/Java/HasMap.md",
+    "COMP/Programming Language/Java/Java.md",
+    "COMP/Programming Language/Java/码点和代码单元 Code Point.md",
+    "COMP/Algorithm/Leetcode Cookbook.md",
+    "00_Inbox/2022-08-10.md",
+    "使用技巧/Linux/clash 自动更新订阅.md",
+    "使用技巧/OB/markdown 语法.md",
+    "使用技巧/OB/测试新建笔记.md",
+    "每日计划.md"
+  ]
+}

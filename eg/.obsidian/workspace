@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "1ee992739e9e56bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "10c8cc32f2b54eeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/202206012340.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7aec3053c4ba808",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f4708a1ed235092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa937eb25f03e1da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27c72fb608f79706",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28cd2ec793a417a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4352749510cad046",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "196b40996611a2ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "edfe29462028296a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cad03411d46b5ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/202206012340.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a195b22dd1e6802",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/202206012340.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3deb0805f8a2c2f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "534f5fb9cda34e34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/202206012340.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "10c8cc32f2b54eeb",
+  "lastOpenFiles": [
+    "Zettelkasten/202206012340.md",
+    "日记/2022-06-01.md",
+    "00演示文件夹/Excalidraw演示.excalidraw.md",
+    "请先阅读这里（Readme）.md",
+    "日记/2021-12-06.md",
+    "Zettelkasten/202109121613第一张ZK笔记.md",
+    "附件/Pasted image 20210912162722.png",
+    "模板/ZK笔记模板.md",
+    "02笔记库/这里可以放置你的笔记.md",
+    "00演示文件夹/看板演示.md"
+  ]
+}

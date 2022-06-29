@@ -6,5 +6,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00_Inbox",
   "attachmentFolderPath": "00_Include_files",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "spellcheck": false
 }

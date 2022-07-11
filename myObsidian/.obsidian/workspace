@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0f553d82bb8f0e2a",
+        "id": "3492f4d034ff5303",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a21ad5a085579156",
@@ -96,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f553d82bb8f0e2a",
+  "active": "3492f4d034ff5303",
   "lastOpenFiles": [
     "00_Inbox/并发编程的艺术.md",
+    "00_Inbox/Python.md",
+    "每日计划.md",
     "COMP/Programming Language/Java/HasMap.md",
     "COMP/Programming Language/Java/Core Java Volume I -Fundamentals.md",
-    "00_Inbox/Python.md",
     "使用技巧/Linux/clash 自动更新订阅.md",
     "使用技巧/OB/markdown 语法.md",
     "使用技巧/OB/如何使用obsidian.md",
     "使用技巧/OB/测试新建笔记.md",
-    "每日计划.md",
     "COMP/Algorithm/Problem/Array.md"
   ]
 }

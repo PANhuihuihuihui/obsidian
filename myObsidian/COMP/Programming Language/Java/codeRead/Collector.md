@@ -1,0 +1,1 @@
+# Interface Collector<T,A,R>

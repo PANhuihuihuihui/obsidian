@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3492f4d034ff5303",
+        "id": "6eac5526b1e26952",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_Inbox/并发编程的艺术.md",
+            "file": "00_Inbox/1444 Number of Ways of Cutting a Pizza.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e818bc703368e39",
+    "id": "1622bac0dab7d91d",
     "type": "split",
     "children": [
       {
-        "id": "5f137ae740494057",
+        "id": "061f2545f686efb9",
         "type": "tabs",
         "children": [
           {
-            "id": "e57ae6c4aba84876",
+            "id": "f44b87d704c23fa3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "7a01c2d3595b2038",
+            "id": "10905c045aef3368",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "491",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "f221af54aebbcf93",
+            "id": "9908b36c04864f8d",
             "type": "leaf",
             "state": {
               "type": "book-explorer-view",
@@ -61,23 +61,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.5
   },
   "right": {
-    "id": "a21ad5a085579156",
+    "id": "821799fb58d35be0",
     "type": "split",
     "children": [
       {
-        "id": "60a47ef34f35619c",
+        "id": "08c1d07301fe3928",
         "type": "tabs",
         "children": [
           {
-            "id": "cbdff7ac6182c721",
+            "id": "c8d72621e52011dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Inbox/并发编程的艺术.md",
+                "file": "00_Inbox/1444 Number of Ways of Cutting a Pizza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e18c62e3164cbfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -95,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3492f4d034ff5303",
+  "active": "6eac5526b1e26952",
   "lastOpenFiles": [
-    "00_Inbox/并发编程的艺术.md",
-    "00_Inbox/Python.md",
-    "每日计划.md",
-    "COMP/Programming Language/Java/HasMap.md",
+    "00_Inbox/Bitwise Operators.md",
+    "COMP/Programming Language/Java/面试-牛客题目/经典面试题.md",
     "COMP/Programming Language/Java/Core Java Volume I -Fundamentals.md",
-    "使用技巧/Linux/clash 自动更新订阅.md",
-    "使用技巧/OB/markdown 语法.md",
-    "使用技巧/OB/如何使用obsidian.md",
-    "使用技巧/OB/测试新建笔记.md",
-    "COMP/Algorithm/Problem/Array.md"
+    "00_Inbox/1444 Number of Ways of Cutting a Pizza.md",
+    "COMP/Algorithm/Algo/006 Depth First Search.md",
+    "COMP/Algorithm/Leetcode/322 Coin Change.md",
+    "COMP/Programming Language/Java/codeRead/BlockingQueue.md",
+    "COMP/Programming Language/Java/codeRead/Deque.md",
+    "00_Inbox/PriorityQueue.md",
+    "COMP/Programming Language/Java/codeRead/Stack & Queue.md"
   ]
 }

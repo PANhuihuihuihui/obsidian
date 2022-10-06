@@ -1,1 +1,20 @@
-{}
+{
+  "templater-obsidian:00_Template/Untitled.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:00_Template/leecode.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}

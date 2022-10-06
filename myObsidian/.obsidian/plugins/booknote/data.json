@@ -1,9 +1,9 @@
 {
-  "bookPath": "/home/pan/Documents/obsidian/book",
+  "bookPath": "/Users/pan/Library/Mobile Documents/com~apple~CloudDocs/obsidian/book",
   "bookSettingPath": "booknote",
   "defaultVaultName": "",
   "useLocalWebViewerServer": true,
-  "webviewerRootPath": "/home/pan/software/webviewer",
+  "webviewerRootPath": "/Users/pan/Documents/webviewer",
   "webviewerLocalPort": "1448",
   "webviewerExternalServerAddress": "https://relaxed-torvalds-5a5c77.netlify.app",
   "openAllBookBySystem": false,

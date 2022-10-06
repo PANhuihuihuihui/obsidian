@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "a9296116cd528f7e",
+    "id": "6f981150f723ccc9",
     "type": "split",
     "children": [
       {
-        "id": "5ec71cfb54300c75",
+        "id": "6a343a2e80a14118",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "请先阅读这里（Readme）.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b65d28f9cee49ca7",
+    "id": "c10dd2991950e9e5",
     "type": "split",
     "children": [
       {
-        "id": "c67f7c0e60d82c24",
+        "id": "f0f5003717bd946f",
         "type": "tabs",
         "children": [
           {
-            "id": "0c468a12159001c4",
+            "id": "a985b6301048d03a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "842947a162c5fb4b",
+            "id": "a01fcd55f4a8a67f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,7 +46,7 @@
             }
           },
           {
-            "id": "e846d297daa7e09a",
+            "id": "b6bac5a1761d510a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -63,34 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "5c00622e47bed8a4",
+    "id": "2f9d02ae7fd7d41d",
     "type": "split",
     "children": [
       {
-        "id": "5d2f59c63bb10a1a",
+        "id": "e800eb452f417e69",
         "type": "tabs",
         "children": [
           {
-            "id": "74ee6c3a8edaffbc",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "b177cc7484fb34d9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c5fd3b9e284f234",
+            "id": "5f2272942ac26977",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "请先阅读这里（Readme）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +84,18 @@
             }
           },
           {
-            "id": "bf9e44eac4b6ea9c",
+            "id": "20c94a3b21634b25",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "请先阅读这里（Readme）.md"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32c73f25dfe3320a",
+            "id": "b2033c176b26bc8d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,32 +106,20 @@
             }
           },
           {
-            "id": "e55ca7c43b48204f",
+            "id": "e2aec0d896fdbcb0",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "请先阅读这里（Readme）.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "outline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5ec71cfb54300c75",
-  "lastOpenFiles": [
-    "请先阅读这里（Readme）.md",
-    "02笔记库/这里可以放置你的笔记.md",
-    "00演示文件夹/看板演示.md",
-    "00演示文件夹/Excalidraw演示.excalidraw.md",
-    "未命名.md",
-    "00演示文件夹/Excalidraw演示.md",
-    "日记/2021-12-06.md",
-    "模板/ZK笔记模板.md"
-  ]
+  "active": "6a343a2e80a14118",
+  "lastOpenFiles": []
 }

@@ -3,5 +3,8 @@
   "nldates-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
-  "obsidian-booknote-plugin"
+  "obsidian-booknote-plugin",
+  "obsidian-wordnet-plugin",
+  "templater-obsidian",
+  "quick-latex"
 ]

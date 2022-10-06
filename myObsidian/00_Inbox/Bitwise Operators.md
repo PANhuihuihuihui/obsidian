@@ -8,4 +8,24 @@
 5.  The **>> (right shift)** in C or C++ takes two numbers, right shifts the bits of the first operand, the second operand decides the number of places to shift. 
 6.  The **~ (bitwise NOT)** in C or C++ takes one number and inverts all bits of it.
 
-xor 
+```java
+    public static boolean transformArray(int[] a,int[] b) {
+        // use TreeSet to slove
+        Arrays.sort(a);
+        Arrays.sort(b);
+        for (int i = 0; i < b.length; i++) {
+            if (a[i]!=b[i] && a[i]+1 != b[i]){
+                return false;
+            }
+        }
+        return true;
+
+    }
+    public static void main(String[] args) {
+        int[] a = {4,2,3,4,10};
+        int[] b = {1,2,3,4,5};
+        System.out.println(transformArray(a,b));
+    
+    }
+```
+

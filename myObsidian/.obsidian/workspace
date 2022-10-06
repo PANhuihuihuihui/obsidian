@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_Inbox/1444 Number of Ways of Cutting a Pizza.md",
+            "file": "00_Inbox/Bitwise Operators.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Inbox/1444 Number of Ways of Cutting a Pizza.md",
+                "file": "00_Inbox/Bitwise Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "6eac5526b1e26952",
   "lastOpenFiles": [
+    "COMP/Programming Language/Java/并发编程的艺术.md",
+    "00_Inbox/1444 Number of Ways of Cutting a Pizza.md",
     "00_Inbox/Bitwise Operators.md",
     "COMP/Programming Language/Java/面试-牛客题目/经典面试题.md",
     "COMP/Programming Language/Java/Core Java Volume I -Fundamentals.md",
-    "00_Inbox/1444 Number of Ways of Cutting a Pizza.md",
     "COMP/Algorithm/Algo/006 Depth First Search.md",
     "COMP/Algorithm/Leetcode/322 Coin Change.md",
     "COMP/Programming Language/Java/codeRead/BlockingQueue.md",
     "COMP/Programming Language/Java/codeRead/Deque.md",
-    "00_Inbox/PriorityQueue.md",
-    "COMP/Programming Language/Java/codeRead/Stack & Queue.md"
+    "00_Inbox/PriorityQueue.md"
   ]
 }
